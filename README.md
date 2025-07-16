@@ -12,7 +12,7 @@ int main(void) {
 }
 ```
 
-### Why this attracts contributors ⭐
+### Why use it ⭐
 
 * **Immediately useful** – every new project needs logging.
 * **Single header** – low barrier to try and to vendor.
@@ -21,13 +21,4 @@ int main(void) {
 
 ---
 
-## Next steps for your collection
-
-| Task | Tip |
-|------|-----|
-| **Pick a license** | MIT or Apache‑2.0 keeps it friction‑free. |
-| **Add examples** | Show desktop + STM32/NXP bare‑metal demo. |
-| **Unit tests** | e.g. `ctest` with clang/gcc on CI (GitHub Actions). |
-| **Tag v1.0.0** | Semantic version so users can pin. |
-
-Feel free to copy‑paste `tinylog.h` above into its own repo. When you’re ready for the next module (ring buffer or FSM helper), let me know and I can craft those too!
+Feel free to copy‑paste `tinylog.h` above into its own repo.
